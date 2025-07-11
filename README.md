@@ -46,6 +46,20 @@ This project simulates a small-scale **Electronic Voting Machine** using a micro
 
 ---
 
-## 📁 File Structure
+## 👩‍💻 Developed By
+
+**Meghamala Nunna**  
+B.Tech – ECE (2022–2026)  
+Sri Vasavi Engineering College
+
+---
+
+## 🔮 Future Scope
+
+- Add biometric voter authentication (e.g., fingerprint scanner)
+- Integrate IoT for real-time vote syncing to the cloud
+- Develop a mobile/web admin dashboard for monitoring and control
+
+
 
 
